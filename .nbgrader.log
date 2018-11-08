@@ -1,0 +1,22 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/panziqi/msds/ML/mlfinal
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=6506d67553241ff4b239c26fefef47d93ef0cd39ed88acd3
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=6506d67553241ff4b239c26fefef47d93ef0cd39ed88acd3
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook FE-Nan-v01.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 69c09e97-9b9e-46ad-80fe-f75ef87a6e2a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 69c09e97-9b9e-46ad-80fe-f75ef87a6e2a
+[NotebookApp | INFO] Saving file at /FE-Nan-v01.ipynb
+[NotebookApp | WARNING] Notebook FE-Nan-v01.ipynb is not trusted
+[NotebookApp | INFO] interrupted
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 69c09e97-9b9e-46ad-80fe-f75ef87a6e2a
