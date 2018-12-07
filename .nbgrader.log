@@ -1,0 +1,25 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/nanlin/msds/621MachineLearning/MBTI-ML
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8890/?token=2c928ffaf44d0574463920351fcdb034461a0d1b2116a025
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8890/?token=2c928ffaf44d0574463920351fcdb034461a0d1b2116a025
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook Final_Notebook.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 4941b59d-7a1a-468d-be07-64cc3f08da8f
+[NotebookApp | INFO] 302 GET /notebooks/Pictures/MBTIgrid.jpg (::1) 1.39ms
+[NotebookApp | INFO] 302 GET /notebooks/Pictures/personality_key.png (::1) 1.00ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4941b59d-7a1a-468d-be07-64cc3f08da8f
+[NotebookApp | INFO] Saving file at /Final_Notebook.ipynb
+[NotebookApp | WARNING] Notebook Final_Notebook.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Final_Notebook.ipynb
+[NotebookApp | WARNING] Notebook Final_Notebook.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Final_Notebook.ipynb
+[NotebookApp | WARNING] Notebook Final_Notebook.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Final_Notebook.ipynb
+[NotebookApp | WARNING] Notebook Final_Notebook.ipynb is not trusted
