@@ -21,3 +21,10 @@ rather than extroverted (E) and Sensitive (S). Because of this, all the models w
 trouble classifying extroversion vs introversion and intuition vs sensitivity. However, when we 
 made a Voting Classifier using Logarithmic Regression, Random Forest, LightGBM, and XGBoost, we 
 were able to achieve the best AUC-ROC score and f-scores.
+
+## Team (alphabetical order)
+Ben Khuong
+Donya Fozoonmayeh
+Nan Lin
+Tomohiko Ishihara
+Zack Pan
