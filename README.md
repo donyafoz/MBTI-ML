@@ -23,8 +23,8 @@ made a Voting Classifier using Logarithmic Regression, Random Forest, LightGBM, 
 were able to achieve the best AUC-ROC score and f-scores.
 
 ## Team (alphabetical order)
-Ben Khuong
-Donya Fozoonmayeh
-Nan Lin
-Tomohiko Ishihara
-Zack Pan
+Ben Khuong  
+Donya Fozoonmayeh  
+Nan Lin  
+Tomohiko Ishihara  
+Zack Pan 
